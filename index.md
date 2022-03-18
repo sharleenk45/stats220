@@ -1,7 +1,7 @@
 # 13 Reasons why I wish I was an only child
 Welcome to my *oh god why didn't my parents have me first **and** last* page.
 
-*Note: this is only satire, I only hate him most of the time; he provides the hot gossip the other times*
+*Note: this is only satire, I only hate him most of the time; he provides the hot gossip the other times.*
 
 ## My Inspiration
 My *lovely* brother has the magical ability to make me feel the need to use my **CAPITAL LETTERS** voice outside typing and in the real world :')
