@@ -1,3 +1,4 @@
 # stats220 Assignment 1
-## Website:
+## Part A
+### Website:
 ###### https://sharleenk45.github.io/stats220/
