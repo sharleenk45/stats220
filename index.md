@@ -10,10 +10,7 @@ The purpose of my repo is to demonstrate the level of *annoyance* my brother sub
 ## Reasons
 
 1. He's ugly
-```r
-goblin <- image_read("https://media.istockphoto.com/vectors/cartoon-of-a-crazy-green-troll-dressed-in-bearskin-vector-id460272397?k=20&m=460272397&s=612x612&w=0&h=ui_u54WJmN9mDogKq3Is8krPQaGB2FUoRl4rL-3luis=") %>%
-  image_scale(200)
-  ```
+
 
 3. He smells
 4. Doesn't make me food
@@ -32,6 +29,7 @@ goblin <- image_read("https://media.istockphoto.com/vectors/cartoon-of-a-crazy-g
 
 ## **Express your want to be an only child through RStudio:**
 
+```r
 library(magick)
 
 suspicious_spongebob <- image_read("https://i.redd.it/vrqc1u43lab31.jpg") %>%
@@ -80,5 +78,5 @@ meme <- c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
 image_write(meme, "my_meme.png")
-
+  ```
 
