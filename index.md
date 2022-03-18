@@ -6,7 +6,7 @@ Welcome to my *oh god why didn't my parents have me first **and** last* page.
 ## My Inspiration
 My *lovely* brother has the magical ability to make me feel the need to use my **CAPITAL LETTERS** voice outside typing and in the real world :')
 The purpose of my repo is to demonstrate the level of *annoyance* my brother subjects me to on a daily basis.
-
+![](https://c8p9p3e5.rocketcdn.me/wp-content/uploads/2019/04/brother-becomes-stupid.jpg)
 ## Reasons
 
 1. He's ugly
