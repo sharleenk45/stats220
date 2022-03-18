@@ -78,3 +78,5 @@ meme <- c(first_row, second_row, third_row) %>%
 image_write(meme, "my_meme.png")
   ```
 
+But there will always be one good thing about him:
+![](https://c8p9p3e5.rocketcdn.me/wp-content/uploads/2019/04/brother-becomes-stupid.jpg)
