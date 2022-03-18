@@ -10,27 +10,18 @@ The purpose of my repo is to demonstrate the level of *annoyance* my brother sub
 ## Reasons
 
 1. He's ugly
-
-![](https://image.shutterstock.com/image-vector/crazy-cartoon-goblin-vector-illustration-260nw-80818183.jpg)
-
-3. He smells
-
-![](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/701/smelly-poop-1496756881.jpg?resize=480:*)
-
-5. Doesn't make me food
-
-![](https://image.shutterstock.com/image-photo/little-boy-waiting-food-restaurant-260nw-345119723.jpg)
-
-7. Doesn't spend all of his money on me
-8. Weird
-9. Barges into my room to stare at himself in my mirror and then leaves
-10. Farts a lot
-11. Hogs the bathroom
-12. He won't buy me a puppy
-13. Waits outside my room to scare me with his ugly face
-14. Embarrassng to take outin public
-15. Did I say he's ugly?
-16. He stares at me to annoy me
+2. He smells
+3. Doesn't make me food
+4. Doesn't spend all of his money on me
+5. Weird
+6. Barges into my room to stare at himself in my mirror and then leaves
+7.  Farts a lot
+8.  Hogs the bathroom
+9.  He won't buy me a puppy
+10.  Waits outside my room to scare me with his ugly face
+11.  Embarrassng to take outin public
+12.  Did I say he's ugly?
+13.  He stares at me to annoy me
 
 ![](my_meme.png)
 
