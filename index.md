@@ -27,9 +27,9 @@ The purpose of my repo is to demonstrate the level of *annoyance* my brother sub
 
 ## How you can cope with a defective sibling::
 ### Distractions:
-Amazing distractions from your siblings' exixtance could be [miniclip](https://www.miniclip.com/games/en/#privacy-settings).
+Amazing distractions from your siblings' exixtance could be [Miniclip](https://www.miniclip.com/games/en/#privacy-settings), [Cool Math Games](https://www.coolmathgames.com/), [Earn to Die](https://earntodie.co/), or [Fun Brain](https://www.funbrain.com/).
 
-*-Please be advised that overuse of miniclip could have adverse affects on prodictivity and increase procrastination and effectively ruin your life-*
+*-Please be advised that overuse of these games could have adverse affects on prodictivity and increase procrastination and effectively ruin your life-*
 
 Other distractions may include annoying him back till he leaves you alone or watching the show *How to Get Away with Murder*.
 
