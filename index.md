@@ -23,9 +23,19 @@ The purpose of my repo is to demonstrate the level of *annoyance* my brother sub
 12.  Did I say he's ugly?
 13.  He stares at me to annoy me
 
-![](my_meme.png)
+[](my_meme.png)
 
-## **Express your want to be an only child through RStudio:**
+## How you can cope with a defective sibling::
+### Distractions:
+Amazing distractions from your siblings' exixtance could be [miniclip](https://www.miniclip.com/games/en/#privacy-settings).
+
+*-Please be advised that overuse of miniclip could have adverse affects on prodictivity and increase procrastination and effectively ruin your life-*
+
+Other distractions may include annoying him back till he leaves you alone or watching the show *How to Get Away with Murder*.
+
+### **Express your want to be an only child through RStudio:**
+
+![](my_meme.png)
 
 ```r
 library(magick)
