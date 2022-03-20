@@ -48,6 +48,7 @@ annoyed_spongebob <- image_read("https://i.imgflip.com/5l3pc.jpg") %>%
   image_scale(500)
 
 #adds annotation to the image
+
 annoyed_spongebob <- image_annotate(annoyed_spongebob, "W H O T", size = 30, color = "black", boxcolor = "white",
   degrees = 0, location = "+250+200")
 
@@ -58,10 +59,12 @@ done_spongebob <- image_read("https://static.wikia.nocookie.net/parody/images/8/
   image_scale(500)
 
 #adds filter to image
+
 done_spongebob <- image_negate(done_spongebob)
 
 
-#adds blank images and annotates them
+#adds blank images and add text
+
 suspicious_text <- image_blank(width = 500, 
                        height = 400, 
                        color = "#FFFFFF") %>%
@@ -95,7 +98,7 @@ third_row <- c(done_text, done_spongebob) %>%
 meme <- c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
-
+#make sure you can see it!
 image_write(meme, "my_meme.png")
 
   ```
