@@ -45,13 +45,15 @@ suspicious_spongebob <- image_read("https://i.redd.it/vrqc1u43lab31.jpg") %>%
 
 annoyed_spongebob <- image_read("https://i.imgflip.com/5l3pc.jpg") %>%
   image_scale(500)
+annoyed_spongebob <- image_annotate(annoyed_spongebob, "W H O T", size = 30, color = "black", boxcolor = "white",
+  degrees = 0, location = "+250+200")
 
 time_lapse <- image_read("https://media.vlipsy.com/vlips/gyck95iN/preview.jpg") %>%
   image_scale(500)
 
 done_spongebob <- image_read("https://static.wikia.nocookie.net/parody/images/8/88/Piss_Off_SpongeBob.jpg/revision/latest?cb=20200728113229") %>%
   image_scale(500)
-
+done_spongebob <- image_negate(done_spongebob)
 
 suspicious_text <- image_blank(width = 500, 
                        height = 400, 
@@ -84,8 +86,8 @@ third_row <- c(done_text, done_spongebob) %>%
 
 meme <- c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
-
 image_write(meme, "my_meme.png")
+
   ```
 
 But there will always be one good thing about him:
